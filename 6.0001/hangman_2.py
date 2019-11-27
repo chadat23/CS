@@ -1,4 +1,4 @@
-# Problem Set 2, hangman.py
+# Problem Set 2, hangman_2.py
 # Name: 
 # Collaborators:
 # Time spent:
@@ -12,7 +12,7 @@
 import random
 import string
 
-WORDLIST_FILENAME = "words.txt"
+WORDLIST_FILENAME = "words_hangman.txt"
 
 
 def load_words():
